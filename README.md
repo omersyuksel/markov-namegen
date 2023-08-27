@@ -1,5 +1,5 @@
 # Name generator
-A simple command line name generator based on Markov chains with memory with temperature sampling. 
+A simple command line name generator based on Markov chains with memory and temperature sampling. 
 
 Also allows training own model. Examples for international first names are located in `models/` directory.
 
